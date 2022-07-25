@@ -1,0 +1,382 @@
+
+
+@media(min-width: 768px) and (max-width: 992px){ 
+    .navbar-brand {
+        transform: scale(.8);
+    }
+    .banner_text h3 {
+        font-size: 36px;
+        margin-bottom: 5px;
+    }
+    .banner_text h1::after {
+        display: none;
+    }
+    .banner_text h1 {
+        font-size: 55px;
+        display: block;
+    }
+    .banner_text a {
+        font-size: 18px;
+        padding: 8px 25px;
+        margin-top: 30px;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item {
+        margin-left: 0px; 
+    }
+    .navbar-expand-lg .navbar-nav .nav-link:hover::after {
+        display: none;
+    }
+    .nav-item .nav-link{
+        color: #000 !important;
+    }
+    .about_row {
+        margin-top: 50px;
+    }
+    .count{
+        border-bottom: 1px solid #fff;
+    }
+    #about {
+        padding-top: 60px;
+        padding-bottom: 70px;
+    }
+    .heading h3 {
+        font-size: 20px;
+    }
+    .heading h2 {
+        font-size: 25px;
+    }
+    .heading p {
+        margin-top: 65px;
+    }
+    .count {
+        padding: 45px 0;
+        border-left: none;
+    }
+    .team_row {
+        margin-top: 65px;
+    }
+    .pink {
+        border-right: none;
+    }
+    #service {
+        padding: 50px 0 50px;
+    }
+   .ser_text {
+       text-align: center;
+       margin-top: 12px;
+   }
+   .ser_text p {
+	padding: 0 20px;
+    }
+
+   .ser_row .row .col-lg-4:nth-child(4),
+   .ser_row .row .col-lg-4:nth-child(5),
+   .ser_row .row .col-lg-4:nth-child(6) {
+       margin-top: 10px;
+   }
+   .slider_icon img{
+       margin: 0 auto;
+   }
+   .slider_text{
+       text-align: center;
+   }
+   .slider_text p {
+       font-size: 18px;
+       margin-top: 12px;
+   }
+   .work_row {
+       margin-top: 60px;
+   }
+   .f_follo {
+       margin-top: 20px;
+       padding-bottom: 10px;
+   }
+   .foot_l .p a {
+       margin-left: 9px;
+   }
+   #team {
+	padding: 50px 0 60px;
+    }
+
+    .f_text h5 {
+        margin-top: 10px;
+    }
+    #footer {
+        padding-top: 45px;
+    }
+   form {
+       margin-top: 30px;
+   }
+   .p{
+       margin-right: -55px;
+       text-align: center;
+   }
+   .p span{
+        display: block;
+        margin-bottom: 5px;
+   }
+   #footer input {
+       width: 100%;
+   }
+    #footer button {
+       width: 100%;
+       margin-top: 10px;
+   }
+}
+
+@media(min-width: 576px) and (max-width: 768px){ 
+    .navbar-brand {
+        transform: scale(.8);
+    }
+    .banner_text h3 {
+        font-size: 28px;
+        margin-bottom: 5px;
+    }
+    .banner_text h1::after {
+        display: none;
+    }
+    .banner_text h1 {
+        font-size: 36px;
+        display: block;
+    }
+    .banner_text a {
+        font-size: 16px;
+        padding: 6px 20px;
+        margin-top: 20px;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item {
+        margin-left: 0px; 
+    }
+    .navbar-expand-lg .navbar-nav .nav-link:hover::after {
+        display: none;
+    }
+    .nav-item .nav-link{
+        color: #000 !important;
+    }
+    .about_row {
+        margin-top: 50px;
+    }
+    .count{
+        border-bottom: 1px solid #fff;
+    }
+    #about {
+        padding-top: 60px;
+        padding-bottom: 70px;
+    }
+    .heading h3 {
+        font-size: 20px;
+    }
+    .heading h2 {
+        font-size: 25px;
+    }
+    .heading p {
+        margin-top: 65px;
+    }
+    .count {
+        padding: 45px 0;
+        border-left: none;
+    }
+    .team_row {
+        margin-top: 65px;
+    }
+    .pink {
+        border-right: none;
+    }
+    #service {
+        padding: 50px 0 50px;
+    }
+   .ser_text {
+       text-align: center;
+       margin-top: 12px;
+   }
+   .ser_text p {
+    padding: 0 20px;
+    }
+
+   .ser_row .row .col-lg-4:nth-child(4),
+   .ser_row .row .col-lg-4:nth-child(5),
+   .ser_row .row .col-lg-4:nth-child(6) {
+       margin-top: 10px;
+   }
+   .slider_icon img{
+       margin: 0 auto;
+   }
+   .slider_text{
+       text-align: center;
+   }
+   .slider_text p {
+       font-size: 18px;
+       margin-top: 12px;
+   }
+   .work_row {
+       margin-top: 60px;
+   }
+   .f_follo {
+       margin-top: 20px;
+       padding-bottom: 10px;
+   }
+   .foot_l .p a {
+       margin-left: 9px;
+   }
+   #team {
+	padding: 50px 0 60px;
+    }
+
+    .f_text h5 {
+        margin-top: 10px;
+    }
+    #footer {
+        padding-top: 45px;
+    }
+   form {
+       margin-top: 30px;
+   }
+   .p{
+       margin-right: -55px;
+       text-align: center;
+   }
+   .p span{
+        display: block;
+        margin-bottom: 5px;
+   }
+   #footer input {
+       width: 100%;
+   }
+    #footer button {
+       width: 100%;
+       margin-top: 10px;
+   }
+}
+
+@media(max-width: 575.99px){
+    .navbar-brand {
+        transform: scale(.8);
+    }
+    .banner_text h3 {
+        font-size: 18px;
+        margin-bottom: 5px;
+    }
+    .banner_text h1::after {
+        display: none;
+    }
+    .banner_text h1 {
+        font-size: 23px;
+        display: block;
+    }
+    .banner_text a {
+        font-size: 13px;
+        padding: 3px 14px;
+        margin-top: 5px;
+    }
+    .f_text h5 {
+        margin-top: 10px;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item {
+        margin-left: 0px; 
+    }
+    .navbar-expand-lg .navbar-nav .nav-link:hover::after {
+        display: none;
+    }
+    .nav-item .nav-link{
+        color: #000 !important;
+    }
+    .about_row {
+        margin-top: 50px;
+    }
+    .count{
+        border-bottom: 1px solid #fff;
+    }
+    #about {
+        padding-top: 60px;
+        padding-bottom: 70px;
+    }
+    .heading h3 {
+        font-size: 20px;
+    }
+    .heading h2 {
+        font-size: 25px;
+    }
+    .heading p {
+        margin-top: 65px;
+    }
+    .count {
+        padding: 45px 0;
+        border-left: none;
+    }
+    .team_row {
+        margin-top: 65px;
+    }
+    .pink {
+        border-right: none;
+    }
+    #service {
+        padding: 50px 0 50px;
+    }
+   .ser_text {
+       text-align: center;
+       margin-top: 12px;
+   }
+   .ser_row .row .col-lg-4:nth-child(4),
+   .ser_row .row .col-lg-4:nth-child(5),
+   .ser_row .row .col-lg-4:nth-child(6) {
+       margin-top: 10px;
+   }
+   .slider_icon img{
+       margin: 0 auto;
+   }
+   .slider_text{
+       text-align: center;
+   }
+   .slider_text p {
+       font-size: 18px;
+       margin-top: 12px;
+   }
+   .work_row {
+       margin-top: 60px;
+   }
+   .f_follo {
+       margin-top: 20px;
+       padding-bottom: 10px;
+   }
+   .foot_l .p a {
+       margin-left: 9px;
+   }
+   #team {
+	padding: 50px 0 60px;
+    }
+    #footer {
+        padding-top: 45px;
+    }
+   form {
+       margin-top: 30px;
+   }
+   .p{
+       margin-right: -55px;
+       text-align: center;
+   }
+   .p span{
+        display: block;
+        margin-bottom: 5px;
+   }
+   #footer input {
+       width: 100%;
+   }
+    #footer button {
+       width: 100%;
+       margin-top: 10px;
+   }
+}
+@media (min-width: 500px) and (max-width: 575.99px){
+    .ser_text p {
+        padding: 0 100px;
+    }
+}
